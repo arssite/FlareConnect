@@ -4,8 +4,8 @@
 <br>
     <h2>Output</h2>   
     <img src="login.png">
-    <img src="register">
-    <img src="profile">
+    <img src="register.png">
+    <img src="profile.png">
     <img src="feed.png">
     <h2>Features</h2>
     <ul>
