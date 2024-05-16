@@ -2,11 +2,11 @@
     <h1>FlareConnect: A Social Media Application</h1>
     <p>Welcome to FlareConnect, a simple social media application built using the Django framework and SQLite database. This app includes essential features such as user authentication, uploading photos, deleting posts, following/unfollowing users, liking posts, and downloading photos.</p>
 <br>
-    <h2>Output</h2>
-    <img src="">
-    <img src="">
-    <img src="">
-    <img src="">
+    <h2>Output</h2>   
+    <img src="login.png">
+    <img src="register">
+    <img src="profile">
+    <img src="feed.png">
     <h2>Features</h2>
     <ul>
         <li>User Authentication (Sign Up, Login, Logout)</li>
