@@ -14,7 +14,7 @@
         <li>Delete Post</li>
         <li>Follow/Unfollow Users</li>
         <li>Like Posts</li>
-        <li>Download Photos</li>
+        <li>Download photos</li>
     </ul>
 <br>
     <h2>Requirements</h2>
